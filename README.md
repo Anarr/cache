@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	"gocache/cache"
+	"github.com/Anarr/cache"
 )
 
 func main() {
